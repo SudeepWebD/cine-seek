@@ -57,26 +57,11 @@ Build the app for production:
 npm run build
 ```
 
-Preview production build:
-
-```bash
-npm run preview
-```
-
----
-
 ## 📌 API Reference
 
 This project uses The Movie Database (TMDB) API:
 
 https://developer.themoviedb.org/
-
----
-
-## 🌐 Live Demo
-
-You can access the deployed version here:
-
 
 ---
 
